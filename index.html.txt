@@ -1,0 +1,7 @@
+<table>
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>Number</th>
+</tr>
+</table>
